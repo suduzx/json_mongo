@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef43"
+  },
+  "userId": "32285516-c246-435f-9555-276c2e8ee616",
+  "firstName": "admin",
+  "lastName": "admin",
+  "organization": {},
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef44"
+  },
+  "userId": "0e326624-5b9b-4164-8b5d-fdb6c61ca381",
+  "firstName": "son",
+  "lastName": "hoang",
+  "organization": {
+    "orgType": "enterprise",
+    "orgName": "MBBANK"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef45"
+  },
+  "userId": "928a3534-4876-4881-a219-eb949866d2f3",
+  "firstName": "son",
+  "lastName": "hoang",
+  "organization": {
+    "orgType": "enterprise",
+    "orgName": "MBBANK"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef46"
+  },
+  "userId": "2076f3c8-e132-4462-8730-22b7f7699ff0",
+  "firstName": "hpt",
+  "lastName": "hpt",
+  "organization": {
+    "orgType": "personal",
+    "orgName": "HPT"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef47"
+  },
+  "userId": "ee5aa25f-4108-47a5-a6e8-404597a3abf4",
+  "firstName": "hpttest",
+  "lastName": "hpttest",
+  "organization": {
+    "orgType": "personal",
+    "orgName": "test"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef48"
+  },
+  "userId": "cabbcf2f-400d-45a5-a081-f61045052722",
+  "firstName": "vit",
+  "lastName": "ga",
+  "organization": {
+    "orgType": "personal"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef49"
+  },
+  "userId": "ace9aea1-f622-47c5-a24a-7085e2e76cde",
+  "firstName": "vuong",
+  "lastName": "hoang",
+  "organization": {
+    "orgType": "personal",
+    "orgName": "MBBANK"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef4a"
+  },
+  "userId": "0b51e286-5385-4332-8a2b-8781cf5c58f1",
+  "firstName": "Vương",
+  "lastName": "Huy",
+  "organization": {
+    "orgType": "personal",
+    "orgName": "MB"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef4b"
+  },
+  "userId": "0481ffd2-2d0a-4938-995a-2db77051765e",
+  "firstName": "a",
+  "lastName": "a",
+  "organization": {
+    "orgType": "personal"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef4c"
+  },
+  "userId": "c2eacf0d-05c4-4869-8a90-dc067c2c7f64",
+  "firstName": "aj",
+  "lastName": "aj",
+  "organization": {
+    "orgType": "enterprise",
+    "orgName": "aj"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef4d"
+  },
+  "userId": "b955b580-fe01-4f44-9a1c-1ced7e5a4eed",
+  "firstName": "smart",
+  "lastName": "capture",
+  "organization": {
+    "orgType": "personal",
+    "orgName": "MBBANK"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef4e"
+  },
+  "userId": "5e976a35-29c6-40c1-9cb4-f876c7a94e28",
+  "firstName": "Ha",
+  "lastName": "Nam",
+  "organization": {
+    "orgType": "personal",
+    "orgName": "Retail"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef4f"
+  },
+  "userId": "055f2988-bc4c-46ef-9b1d-b37ea797d537",
+  "firstName": "vuvansu",
+  "lastName": "su",
+  "organization": {
+    "orgType": "personal",
+    "orgName": "teller suvu"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef50"
+  },
+  "userId": "cd625216-695e-469a-9065-2c889e922e75",
+  "firstName": "sux",
+  "lastName": "gox",
+  "organization": {
+    "orgType": "enterprise",
+    "orgName": "HA"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef51"
+  },
+  "userId": "67ec3619-0fe0-4de5-b536-55d31c4e5489",
+  "firstName": "anhlldd1",
+  "lastName": "anhld",
+  "organization": {
+    "orgType": "enterprise",
+    "orgName": "HA"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef52"
+  },
+  "userId": "9e302423-8e3e-4415-8d21-ee3336fe5c51",
+  "firstName": "anhlldd",
+  "lastName": "anhlldd",
+  "organization": {
+    "orgType": "personal",
+    "orgName": "BB"
+  },
+  "root": false
+},
+{
+  "_id": {
+    "$oid": "65fbad2badc33e4f1ad0ef53"
+  },
+  "userId": "36814fdb-3d66-42a9-91f6-dc0f5a9773ae",
+  "firstName": "aaavuvansuaaa",
+  "lastName": "aaavuvansua",
+  "organization": {
+    "orgType": "personal",
+    "orgName": "mb"
+  },
+  "root": false
+}]
